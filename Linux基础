@@ -1,0 +1,17 @@
+Ctrl+Alt+T //打开终端
+方向移动 左：H 下:J 上:K 右:L
+eg：10j 向下10行
+W:跳至下一个单词 B:跳至上一个单词
+PageUp/PageDown:上/下翻页
+Ctrl F/B:Forword/Backword
+gg：跳至行首
+dD：清空
+//gg+gG 配合清空
+‘数字’+gg 跳至‘数字’行
+/ or ? 加查找词 用‘n’查看下一个结果 ‘Shift+n’查看上一个结果
+cc：剪切 c2c 剪切2行
+u: 撤销 （undo）
+p: 粘贴
+v：选中
+yy：复制
+Ctrl+n：自动补全（仅能补全Vim中已出现过的内容）
